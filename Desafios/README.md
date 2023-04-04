@@ -16,4 +16,4 @@ Durante o bootcamp foram utilizadas diversas tecnologias e ferramentas, entre el
  - Git/GitHub
  
  ### Considerações finais
-Os desafios propostos durante o bootcamp Java Developer da DIO-BancoPan foram bastante desafiadores e permitiram consolidar diversos conceitos e tecnologias importantes para o desenvolvimento de aplicações Java. Além disso, os projetos foram desenvolvidos utilizando boas práticas de programação e arquitetura, o que tornou a experiência ainda mais enriquecedora. Recomendo a todos que têm interesse em se tornar um desenvolvedor Java que realizem este bootcamp.
+Os desafios propostos durante o bootcamp Java Developer da DIO-BancoPan permitiram consolidar diversos conceitos e tecnologias importantes para o desenvolvimento de aplicações Java. Recomendo a todos que têm interesse em se tornar um desenvolvedor Java que realizem este bootcamp.
