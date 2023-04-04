@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Desafios da DIO - Banco Pan Java Developer
 
 Este repositório contém os desafios realizados durante o bootcamp Java Developer oferecido pela Digital Innovation One em parceria com o Banco PAN.
@@ -38,4 +37,3 @@ Durante o bootcamp foram utilizadas diversas tecnologias e ferramentas, entre el
  
  ### Considerações finais
 Os desafios propostos durante o bootcamp Java Developer da DIO-BancoPan permitiram consolidar diversos conceitos e tecnologias importantes para o desenvolvimento de aplicações Java. Recomendo a todos que têm interesse em se tornar um desenvolvedor Java que realizem este bootcamp.
->>>>>>> 46a74cfb61d07d9cb0f60a65eddb06f69c27a454
