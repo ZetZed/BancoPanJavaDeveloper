@@ -10,7 +10,6 @@ O arquivo de entrada contém um valor inteiro N (0 < N < 46).
 ## Saída
 Os valores devem ser mostrados na mesma linha, separados por um espaço em branco. Não deve haver espaço após o último valor.
 
-**Exemplo 1**
 
 | Exemplo de Entrada | Exemplo de Saída   |   
 |--------------------|--------------------| 
