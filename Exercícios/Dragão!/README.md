@@ -10,7 +10,6 @@ A primeira linha contém um número inteiro **C** relativo ao número de casos d
 ## Saída
 Para cada valor lido, imprima o texto correspondente.
 
-**Exemplo 1**
 
 | Exemplo de Entrada          | Exemplo de Saída                        |   
 |-----------------------------|-----------------------------------------| 
